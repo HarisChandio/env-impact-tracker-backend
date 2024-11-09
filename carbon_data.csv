@@ -1,0 +1,6 @@
+activity,unit,emission_factor
+car,mile,0.404
+bus,mile,0.089
+electricity,kWh,0.92
+meat,kg,27.0
+vegetable,kg,2.0
